@@ -1,3 +1,3 @@
-# Experimental implementation of MicroFrotend architecture style
+# Experimental implementation of MicroFrotend architectural style
 
 Covering client-side composition/integration, flat two-level routing and communication mechanisms
